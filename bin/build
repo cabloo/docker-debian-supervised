@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker build -t synergycp/deb-8-supervised .
+
