@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-docker build -t synergycp/deb-8-supervised .
+docker build -t synergycp/debian-supervised:10 .
 

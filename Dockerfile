@@ -1,4 +1,4 @@
-FROM debian:8
+FROM debian:10
 
 RUN apt-get update -y 2>/dev/null > /dev/null
 RUN apt-get install -y supervisor 2> /dev/null > /dev/null

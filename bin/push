@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-docker push synergycp/deb-8-supervised
+docker push synergycp/debian-supervised:10
 
